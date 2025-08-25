@@ -3,7 +3,7 @@
 This project focuses on predicting customer churn — determining whethe
 
 <div align="center">
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Visualizing_Data_Growth_Animation1-ezgif.com-video-to-gif-converter.gif" height="200">
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Visualizing_Data_Growth_Animation1-ezgif.com-video-to-gif-converter.gif" height="200" width="480">
 </div>
 
 
