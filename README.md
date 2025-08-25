@@ -5,19 +5,21 @@ The pipeline is modular, reproducible, and follows industry-standard good Machin
 ---
 
 ## 📑 Contents
+ 
+ • [Project Overview 📊](#-project-overview-)  
+• [Features ✨](#-features-)  
+• [Project Structure 🗂️](#-project-structure-)  
+• [Dataset 📂](#-dataset-)  
+• [Installation ⚙️](#️-installation-)  
+• [Usage 🛠️](#-usage-)  
+  ◌ [Train Model 🔧](#train-model-)  
+  ◌ [Predict on New Data 📡](#predict-on-new-data-)  
+• [Example Output 📈](#-example-output-)  
+• [Tech Stack 🧰](#-tech-stack-)  
+• [Future Improvements 🚀](#-future-improvements-)  
+• [Author 👨‍💻](#-author-)  
 
-• [Project Overview](#-customer-churn-prediction) 📊
-•  [Features](#-features) ✨ 
-•  [Project Structure](#️-project-structure) 🗂️
-•  [Dataset](#-dataset) 📂
-•  [Installation](#️-installation) ⚙  
-•  [Usage](#️-usage) 🛠️  
-  ◌ [Train Model](#1️⃣-train-model) 🔧  
-  ◌  [Predict on New Data](#2️⃣-predict-on-new-data) 📡  
-•  [Example Output](#-example-output) 📈  
-•  [Tech Stack](#-tech-stack) 🧰  
-•  [Future Improvements](#-future-improvements) 🚀  
-•  [Author](#-author) 👨‍💻  
+---
 
 
 
