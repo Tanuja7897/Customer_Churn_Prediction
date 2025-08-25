@@ -16,11 +16,11 @@ By automating churn prediction, this project provides organizations with actiona
 
 ---
 
-## 📑 Contents
+## 📚 Contents
  
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
-- [Features](#-features)  
+- [Tech Stack](#-Tech-Stack)  
 - [Project Structure](#-project-structure)  
 - [Dataset](#-dataset)  
 - [Installation](#️-installation)  
@@ -28,7 +28,7 @@ By automating churn prediction, this project provides organizations with actiona
   - [Train Model](#train-model)  
   - [Predict on New Data](#predict-on-new-data)  
 - [Example Output](#-example-output)  
-- [Tech Stack](#-tech-stack)  
+ 
 - [Future Improvements](#-future-improvements)  
 - [Author](#-author)  
 
@@ -48,6 +48,17 @@ This project's objective is to build a robust, **end-to-end machine learning sol
     (back to top)
   </a>
 </p>                                                                                                                           
-                                                                                                                          
 
+                                                                                                                         
+---
+### 🛠️ Tech Stack
+This project is built using a modern data science tech stack, following a modular and reproducible approach.
+
+* **Core Languages:** **Python 3.10+** for all scripting and model development.
+* **Data Handling:** **Pandas** and **NumPy** for efficient data manipulation and numerical operations.
+* **Modeling:** **Scikit-learn** is used for building, training, and evaluating machine learning models.
+* **Visualization:** **Matplotlib** and **Seaborn** for exploratory data analysis (EDA) and generating insightful plots.
+* **Project Structure:** A **config-driven pipeline** ensures that the workflow is easily configurable and scalable.
+                                                                                                                          
+                                                                                                                          
 
