@@ -6,7 +6,7 @@
 
 ---
 
-# 📊 Customer Churn Prediction
+## 📊 Customer Churn Prediction
 This project focuses on predicting customer churn — determining whether a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
 This solution is built using Python, Scikit-learn, and Pandas, and follows an industry-standard machine learning project structure. 
@@ -33,7 +33,7 @@ By automating churn prediction, this project provides organizations with actiona
 - [Author](#-author)  
 
 ---
-# 🎯 Project Objective
+## 🎯 Project Objective
 
 This project's objective is to build a robust, **end-to-end machine learning solution** for customer churn prediction. By leveraging comprehensive data analysis and a structured workflow, the goal is to provide a predictive tool that enables businesses to:
 
@@ -51,14 +51,14 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 
                                                                                                                          
 ---
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 This project is built using a modern data science tech stack, following a modular and reproducible approach.
 
-* **Core Languages:** **Python 3.10+** for all scripting and model development.
-* **Data Handling:** **Pandas** and **NumPy** for efficient data manipulation and numerical operations.
-* **Modeling:** **Scikit-learn** is used for building, training, and evaluating machine learning models.
-* **Visualization:** **Matplotlib** and **Seaborn** for exploratory data analysis (EDA) and generating insightful plots.
-* **Project Structure:** A **config-driven pipeline** ensures that the workflow is easily configurable and scalable.
+* **Core Languages:** **Python 3.10+** for all scripting and model development ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* **Data Handling:** **Pandas** and **NumPy** for efficient data manipulation and numerical operations ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+* **Modeling:** **Scikit-learn** is used for building, training, and evaluating machine learning models ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* **Visualization:** **Matplotlib** and **Seaborn** for exploratory data analysis (EDA) and generating insightful plots ![Matplotlib](https://img.shields.io/badge/Matplotlib-5D6B8C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-466A90?style=for-the-badge&logo=seaborn&logoColor=white)
+* **Project Structure:** A **config-driven pipeline** ensures that the workflow is easily configurable and scalable ![Scikit-learn-Pipeline](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
                                                                                                                           
                                                                                                                           
 
