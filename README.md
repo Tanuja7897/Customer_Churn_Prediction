@@ -3,7 +3,7 @@
 This project focuses on predicting customer churn — determining whethe
 
 <video width="480" height="270" autoplay loop muted>
-  <source src="https://your-video-link.mp4" type="video/mp4">
+  <source src="[https://your-video-link.mp4](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Visualizing_Data_Growth_Animation.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
