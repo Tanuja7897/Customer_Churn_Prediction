@@ -9,7 +9,8 @@
 # 📊 Customer_Churn_Prediction
 This project focuses on predicting customer churn — determining whether a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
-The solution is built using Python, Scikit-learn, and Pandas, following an industry-standard machine learning project structure. It covers the entire lifecycle of an ML project — from data preprocessing and feature engineering to model training, evaluation, and deployment for real-time predictions.
+• This solution is built using Python, Scikit-learn, and Pandas, and follows an industry-standard machine learning project structure. 
+• It covers the entire lifecycle of an ML project, from 📈Exploratory Data Analysis and data preprocessing to model training and evaluation.
 
 By automating churn prediction, this project provides organizations with actionable insights to improve customer retention, optimize marketing strategies, and reduce revenue loss.
 
@@ -17,7 +18,7 @@ By automating churn prediction, this project provides organizations with actiona
 
 ## 📑 Contents
  
- • [Project Overview 📊](#-customer-churn-prediction-)  
+• [Project Overview 📊](#-customer-churn-prediction-)  
 • [Features ✨](#-features-)  
 • [Project Structure 🗂️](#-project-structure-)  
 • [Dataset 📂](#-dataset-)  
