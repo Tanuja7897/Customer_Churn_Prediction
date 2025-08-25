@@ -6,7 +6,7 @@
 
 ---
 
-# 📊 Customer_Churn_Prediction
+# 📊 Customer Churn Prediction
 This project focuses on predicting customer churn — determining whether a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
 This solution is built using Python, Scikit-learn, and Pandas, and follows an industry-standard machine learning project structure. 
@@ -18,19 +18,19 @@ By automating churn prediction, this project provides organizations with actiona
 
 ## 📑 Contents
  
-- [Project Overview](#customer_churn_prediction)
+- [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
-- [Features ✨](#-features-)  
-- [Project Structure 🗂️](#-project-structure-)  
-- [Dataset 📂](#-dataset-)  
-- [Installation ⚙️](#️-installation-)  
-- [Usage 🛠️](#-usage-)  
-  ◌ [Train Model 🔧](#train-model-)  
-  ◌ [Predict on New Data 📡](#predict-on-new-data-)  
-- [Example Output 📈](#-example-output-)  
-- [Tech Stack 🧰](#-tech-stack-)  
-- [Future Improvements 🚀](#-future-improvements-)  
-- [Author 👨‍💻](#-author-)  
+- [Features](#-features)  
+- [Project Structure](#-project-structure)  
+- [Dataset](#-dataset)  
+- [Installation](#️-installation)  
+- [Usage](#-usage)  
+  - [Train Model](#train-model)  
+  - [Predict on New Data](#predict-on-new-data)  
+- [Example Output](#-example-output)  
+- [Tech Stack](#-tech-stack)  
+- [Future Improvements](#-future-improvements)  
+- [Author](#-author)  
 
 ---
 # 🎯 Project Objective
@@ -43,6 +43,6 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 
 • Reduce churn rates and ensure long-term business growth.
 
-
+- [⬆️ Back to Top](#-Customer-Churn-Prediction)
 ---
 
