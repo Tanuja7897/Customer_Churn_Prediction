@@ -44,7 +44,7 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 • Reduce churn rates and ensure long-term business growth.
 
 <p align="right">
-  <a href="#customer_churn_prediction">
+  <a href="#-Customer-Churn-Prediction">
     (back to top)
   </a>
 </p>                                                                                                                           
