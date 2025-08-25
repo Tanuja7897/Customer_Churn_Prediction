@@ -20,17 +20,17 @@ By automating churn prediction, this project provides organizations with actiona
  
 - [Project Overview](#customer_churn_prediction)
 - [Project Objective](#project_objective)
-• [Features ✨](#-features-)  
-• [Project Structure 🗂️](#-project-structure-)  
-• [Dataset 📂](#-dataset-)  
-• [Installation ⚙️](#️-installation-)  
-• [Usage 🛠️](#-usage-)  
+- [Features ✨](#-features-)  
+- [Project Structure 🗂️](#-project-structure-)  
+- [Dataset 📂](#-dataset-)  
+- [Installation ⚙️](#️-installation-)  
+- [Usage 🛠️](#-usage-)  
   ◌ [Train Model 🔧](#train-model-)  
   ◌ [Predict on New Data 📡](#predict-on-new-data-)  
-• [Example Output 📈](#-example-output-)  
-• [Tech Stack 🧰](#-tech-stack-)  
-• [Future Improvements 🚀](#-future-improvements-)  
-• [Author 👨‍💻](#-author-)  
+- [Example Output 📈](#-example-output-)  
+- [Tech Stack 🧰](#-tech-stack-)  
+- [Future Improvements 🚀](#-future-improvements-)  
+- [Author 👨‍💻](#-author-)  
 
 ---
 # 🎯 Project_Objective
