@@ -19,7 +19,7 @@ By automating churn prediction, this project provides organizations with actiona
 ## 📑 Contents
  
 • [Project Overview 📊](#-customer-churn-prediction-) 
-• [Project Objective](#-Project_Objective-)
+• [Project Objective](#-project_Objective-)
 • [Features ✨](#-features-)  
 • [Project Structure 🗂️](#-project-structure-)  
 • [Dataset 📂](#-dataset-)  
