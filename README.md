@@ -6,7 +6,7 @@ The pipeline is modular, reproducible, and follows industry-standard good Machin
 
 ## 📑 Contents
  
- • [Project Overview 📊](#-project-overview-)  
+ • [Project Overview 📊](#-customer-churn-prediction-)  
 • [Features ✨](#-features-)  
 • [Project Structure 🗂️](#-project-structure-)  
 • [Dataset 📂](#-dataset-)  
