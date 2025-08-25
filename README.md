@@ -18,7 +18,8 @@ By automating churn prediction, this project provides organizations with actiona
 
 ## 📑 Contents
  
-• [Project Overview 📊](#-customer-churn-prediction-)  
+• [Project Overview 📊](#-customer-churn-prediction-) 
+• [Project Objective](#-Project_Objective-)
 • [Features ✨](#-features-)  
 • [Project Structure 🗂️](#-project-structure-)  
 • [Dataset 📂](#-dataset-)  
@@ -32,7 +33,15 @@ By automating churn prediction, this project provides organizations with actiona
 • [Author 👨‍💻](#-author-)  
 
 ---
+# 🎯 Project_Objective
 
+This project's objective is to build a robust, **end-to-end machine learning solution** for customer churn prediction. By leveraging comprehensive data analysis and a structured workflow, the goal is to provide a predictive tool that enables businesses to:
+
+• Proactively engage with at-risk customers.
+
+• Optimize marketing and retention campaigns for maximum effectiveness.
+
+• Reduce churn rates and ensure long-term business growth.
 
 
 ---
