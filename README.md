@@ -2,7 +2,10 @@
 # 📊 Customer_Churn_Prediction
 This project focuses on predicting customer churn — determining whethe
 
-https://github.com/user-attachments/assets/466e0a03-809f-4330-a70a-edaacb22ebba
+<video width="480" height="270" autoplay loop muted>
+  <source src="https://your-video-link.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 r a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
