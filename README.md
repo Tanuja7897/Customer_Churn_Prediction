@@ -2,7 +2,7 @@
 # 📊 Customer_Churn_Prediction
 This project focuses on predicting customer churn — determining whethe
 
-![Visualizing Data Growth](https://github.com/Tanuja7897/Customer_Churn_Prediction/raw/main/assets/Visualizing_Data_Growth_Animation.gif)
+![Visualizing Data Growth]([https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Visualizing_Data_Growth_Animation1-ezgif.com-video-to-gif-converter.gif])
 
 
 
