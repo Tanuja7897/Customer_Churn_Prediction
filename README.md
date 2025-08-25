@@ -3,9 +3,10 @@
 This project focuses on predicting customer churn — determining whethe
 
 <video width="480" height="270" autoplay loop muted>
-  <source src="[https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Visualizing_Data_Growth_Animation.mp4]" type="video/mp4">
+  <source src="https://github.com/Tanuja7897/Customer_Churn_Prediction/raw/main/assets/Visualizing_Data_Growth_Animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 r a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
