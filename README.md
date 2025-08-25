@@ -54,11 +54,16 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 ## 🛠️ Tech Stack
 This project is built using a modern data science tech stack, following a modular and reproducible approach.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) for all scripting and model development
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) for efficient data manipulation and numerical operations
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) is used for building, training, and evaluating machine learning models
-![Matplotlib](https://img.shields.io/badge/Matplotlib-5D6B8C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-466A90?style=for-the-badge&logo=seaborn&logoColor=white) for exploratory data analysis (EDA) and generating insightful plots
-![Pipeline](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ensures that the workflow is easily configurable and scalable
-                                                                                                                          
+- ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) for all scripting and model development
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) for efficient data manipulation and numerical operations
+- ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) is used for building, training, and evaluating machine learning models
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-5D6B8C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-466A90?style=for-the-badge&logo=seaborn&logoColor=white) for exploratory data analysis (EDA) and generating insightful plots
+- ![Pipeline](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ensures that the workflow is easily configurable and scalable
+
+<p align="right">
+  <a href="#-Project-Objective">
+    (back to top)
+  </a>
+</p>                                                                                                                         
                                                                                                                           
 
