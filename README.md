@@ -170,21 +170,13 @@ print(predict_new_data(new_customer))
 
 Classification Report
 <div>
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Report.png" height="600" width="750">
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Repot.png" height="250" width="750">
 </div>
-<p align="right">
-  <a href="#-Repository-Structure">
-    (back to top)
-  </a>
-</p>
+
 <div>
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png" height="600" width="750">
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png" height="200" width="750">
 </div>
-<p align="right">
-  <a href="#-Repository-Structure">
-    (back to top)
-  </a>
-</p>
+
 
 <p align="right">
   <a href="#-Usage">
