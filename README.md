@@ -171,7 +171,6 @@ print(predict_new_data(new_customer))
 
 After running the pipeline, you will see the Classification Report and a Confusion Matrix of the model's predictions.
 
-Classification Report
 | Classification Reprot | Confusion Matrix |
 | :--- | :--- |
 | ![Model Evaluation Report](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Repot.png) | ![Predictions Sample Output](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png) |
@@ -186,8 +185,10 @@ Classification Report
 ---
 ## ⚙️ Configuration
 The config.yaml file allows you to easily adjust project parameters without changing the code. You can FineTune parameters and Model for better Performance. 
-Example:
-![Config](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Yml.png)
+
+<div>
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Yml.png" height="250" width="750">
+</div>
 
 <p align="right">
   <a href="#-Sample-Output">
