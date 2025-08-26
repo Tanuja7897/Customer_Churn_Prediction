@@ -34,6 +34,8 @@ By automating churn prediction, this project provides organizations with actiona
 - [Author](#-author)  
 
 ---
+
+
 ## 🎯 Project Objective
 
 This project's objective is to build a robust, **end-to-end machine learning solution** for customer churn prediction. By leveraging comprehensive data analysis and a structured workflow, the goal is to provide a predictive tool that enables businesses to:
@@ -68,6 +70,8 @@ This flowchart illustrates the end-to-end process of the churn prediction pipeli
     (back to top)
   </a>
 </p>
+
+
 ---
 
 
@@ -232,9 +236,9 @@ The config.yaml file allows you to easily adjust project parameters without chan
 ---
 
 👨‍💻 Author
-Tanuja Vishwakarma
-🐙 ![GitHub](https://github.com/Tanuja7897)
-💼 ![LinkedIn](https://www.linkedin.com/in/tanuja-vishwakarma-463579253/)
+* Tanuja Vishwakarma
+* [GitHub](https://github.com/Tanuja7897)
+* [LinkedIn](https://www.linkedin.com/in/tanuja-vishwakarma-463579253/)
 
 <p align="right">
   <a href="#-Customer-Churn-Prediction">
