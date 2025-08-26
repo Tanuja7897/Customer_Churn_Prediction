@@ -169,13 +169,12 @@ print(predict_new_data(new_customer))
 ## 💻 Sample Output
 
 Classification Report
-<div>
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Repot.png" height="250" width="750">
-</div>
+| Classification Reprot | Confusion Matrix |
+| :--- | :--- |
+| ![Model Evaluation Report](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Repot.png) | ![Predictions Sample Output](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png) |
 
-<div>
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png" height="200" width="750">
-</div>
+
+
 
 
 <p align="right">
