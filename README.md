@@ -68,8 +68,8 @@ This project is built using a modern data science tech stack, following a modula
 
 ---                                                                                                                          
 ## 📁 Repository Structure
-This project follows a standard and intuitive directory structure to keep the codebase organized.
 
+```bash
 Churn_Prediction/
 │
 ├── data/                        # Raw dataset(s)
@@ -90,5 +90,3 @@ Churn_Prediction/
 ├── run_pipeline.py              # Entry point
 ├── requirements.txt             # Dependencies
 └── README.md                    # Documentation
-
-
