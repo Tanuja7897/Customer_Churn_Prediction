@@ -25,9 +25,9 @@ By automating churn prediction, this project provides organizations with actiona
 - [Dataset](#-DataSet)  
 - [Installation](#️-Installation)  
 - [Usage](#-Usage)  
-  - [Train Model](#train-model)  
-  - [Predict on New Data](#predict-on-new-data)  
-- [Example Output](#-example-output)  
+  - [Train Model](#-Train-Model)  
+  - [Predict on New Data](#Predict-New-Data)  
+- [Example Output](#-Sampel-output)  
  
 - [Future Improvements](#-future-improvements)  
 - [Author](#-author)  
@@ -157,7 +157,37 @@ new_customer = pd.DataFrame([{
 
 print(predict_new_data(new_customer))
 ```
+<p align="right">
+  <a href="#-Installation">
+    (back to top)
+  </a>
+</p>
+
+---
 
 
-## ⚡ Usage
+## 💻 Sample Output
 
+Classification Report
+<div>
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Report.png" height="600" width="750">
+</div>
+<p align="right">
+  <a href="#-Repository-Structure">
+    (back to top)
+  </a>
+</p>
+<div>
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png" height="600" width="750">
+</div>
+<p align="right">
+  <a href="#-Repository-Structure">
+    (back to top)
+  </a>
+</p>
+
+<p align="right">
+  <a href="#-Usage">
+    (back to top)
+  </a>
+</p>
