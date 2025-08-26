@@ -22,8 +22,8 @@ By automating churn prediction, this project provides organizations with actiona
 - [Project Objective](#-Project-Objective)
 - [Tech Stack](#-Tach-Stack)  
 - [Project Structure](#-Repository-Structure)  
-- [Dataset](#-dataset)  
-- [Installation](#️-installation)  
+- [Dataset](#-DataSet)  
+- [Installation](#️-Installation)  
 - [Usage](#-usage)  
   - [Train Model](#train-model)  
   - [Predict on New Data](#predict-on-new-data)  
@@ -69,7 +69,7 @@ This project is built using a modern data science tech stack, following a modula
 ---                                                                                                                          
 ## 📁 Repository Structure
 
-```bash
+```
 Churn_Prediction/
 │
 ├── data/                        # Raw dataset(s)
@@ -96,4 +96,38 @@ Churn_Prediction/
     (back to top)
   </a>
 </p> 
+
 ---
+
+## 🛢️ DataSet
+
+The project uses the Telco Customer Churn Dataset from Kaggle, which provides comprehensive information on a telecom company's customers.
+DataSet: Telco Customer Churn (IBM)
+Source: [Kaggle 🔗](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+Dimensions: 7,043 rows and 21 features
+
+👁️ Preview 
+
+
+<p align="right">
+  <a href="#-Repository-Structure">
+    (back to top)
+  </a>
+</p>
+---
+
+## ⚙ Installation
+```
+git clone https://github.com/Tanuja7897/customer-churn-prediction.git
+cd customer-churn-prediction
+pip install -r requirements.txt
+
+```
+<p align="right">
+  <a href="#-DataSet">
+    (back to top)
+  </a>
+</p>
+---
+## ⚡ Usage
+
