@@ -107,8 +107,8 @@ Source: [Kaggle 🔗](https://www.kaggle.com/datasets/blastchar/telco-customer-c
 Dimensions: 7,043 rows and 21 features
 
 👁️ Preview 
-<div align="center">
- <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Dataset.png" height="200" width="450">
+<div>
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Dataset.png" height="250" width="650">
 </div>
 
 <p align="right">
