@@ -20,7 +20,7 @@ By automating churn prediction, this project provides organizations with actiona
  
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
-- [Tech Stack](#-Tech-Stack)  
+- [Tech Stack](#-Repository-Structure)  
 - [Project Structure](#-project-structure)  
 - [Dataset](#-dataset)  
 - [Installation](#️-installation)  
@@ -65,5 +65,30 @@ This project is built using a modern data science tech stack, following a modula
     (back to top)
   </a>
 </p>                                                                                                                         
-                                                                                                                          
+
+---                                                                                                                          
+## 📁 Repository Structure
+This project follows a standard and intuitive directory structure to keep the codebase organized.
+
+Churn_Prediction/
+│
+├── data/                        # Raw dataset(s)
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│
+├── models/                      # Saved ML models
+│   └── churn_model.pkl
+│
+├── src/                         # Source code
+│   ├── preprocessing.py         # Preprocessing pipeline
+│   ├── pipeline.py              # ML pipeline
+│   ├── train.py                 # Train & validate
+│   ├── evaluation.py            # Evaluation metrics
+│   ├── model.py                 # Save/load model utils
+│   └── predict.py               # Predict on new data
+│
+├── config.yaml                  # Config file
+├── run_pipeline.py              # Entry point
+├── requirements.txt             # Dependencies
+└── README.md                    # Documentation
+
 
