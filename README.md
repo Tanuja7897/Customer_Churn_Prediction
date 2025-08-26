@@ -27,9 +27,9 @@ By automating churn prediction, this project provides organizations with actiona
 - [Usage](#-Usage)  
   - [Train Model](#-Train-Model)  
   - [Predict on New Data](#Predict-New-Data)  
-- [Example Output](#-Sampel-output)  
- 
-- [Future Improvements](#-future-improvements)  
+- [Example Output](#-Sample-output)  
+- [Configuration](#-Configuration)
+- [Future Improvements](#-Future-Improvements)  
 - [Author](#-author)  
 
 ---
@@ -153,6 +153,7 @@ new_customer = pd.DataFrame([{
     "PaymentMethod": "Electronic check",
     "MonthlyCharges": 70.35,
     "TotalCharges": 350.5
+    #And All other Features
 }])
 
 print(predict_new_data(new_customer))
@@ -168,17 +169,41 @@ print(predict_new_data(new_customer))
 
 ## 💻 Sample Output
 
+After running the pipeline, you will see the Classification Report and a Confusion Matrix of the model's predictions.
+
 Classification Report
 | Classification Reprot | Confusion Matrix |
 | :--- | :--- |
 | ![Model Evaluation Report](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Repot.png) | ![Predictions Sample Output](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Output.png) |
 
 
-
-
-
 <p align="right">
   <a href="#-Usage">
+    (back to top)
+  </a>
+</p>
+
+---
+## ⚙️ Configuration
+The config.yaml file allows you to easily adjust project parameters without changing the code. You can FineTune parameters and Model for better Performance. 
+Example:
+![Config](https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Yml.png)
+
+<p align="right">
+  <a href="#-Sample-Output">
+    (back to top)
+  </a>
+</p>
+
+---
+🔮 Future Improvements
+
+* **Hyperparameter Tuning:** Implement automated hyperparameter optimization using tools like Optuna or GridSearch to further improve model performance.
+* **Version Control:** Integrate MLflow or DVC to manage and track different versions of the model and data, ensuring reproducibility.
+* **CI/CD Pipeline:** Set up GitHub Actions for a continuous integration and continuous deployment pipeline to automate testing and deployment workflows.
+
+<p align="right">
+  <a href="#-Configuration">
     (back to top)
   </a>
 </p>
