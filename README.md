@@ -24,7 +24,7 @@ By automating churn prediction, this project provides organizations with actiona
 - [Project Structure](#-Repository-Structure)  
 - [Dataset](#-DataSet)  
 - [Installation](#️-Installation)  
-- [Usage](#-usage)  
+- [Usage](#-Usage)  
   - [Train Model](#train-model)  
   - [Predict on New Data](#predict-on-new-data)  
 - [Example Output](#-example-output)  
@@ -132,8 +132,31 @@ pip install -r requirements.txt
   </a>
 </p>
 
-
 ---
+
+## ⚡ Usage
+
+🔹 Train Model
+
+```
+python run_pipeline.py
+```
+🔹 Predict New Data
+```
+from src.predict import predict_new_data
+import pandas as pd
+
+new_customer = pd.DataFrame([{
+    "gender": "Female",
+    "tenure": 5,
+    "Contract": "Month-to-month",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": 70.35,
+    "TotalCharges": 350.5
+}])
+
+print(predict_new_data(new_customer))
+```
 
 
 ## ⚡ Usage
