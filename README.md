@@ -20,6 +20,7 @@ By automating churn prediction, this project provides organizations with actiona
  
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
+- [Project Workflow](#-Project-Workflow)
 - [Tech Stack](#-Tach-Stack)  
 - [Project Structure](#-Repository-Structure)  
 - [Dataset](#-DataSet)  
@@ -51,6 +52,25 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 
                                                                                                                          
 ---
+
+-----
+
+## 📈 Project Workflow
+
+This flowchart illustrates the end-to-end process of the churn prediction pipeline, from raw data ingestion to model deployment.
+
+<div>
+  <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Pipeline.png" alt="Project Pipeline Flowchart">
+</div>
+
+<p align="right">
+  <a href="#-Project-Objective">
+    (back to top)
+  </a>
+</p>
+-----
+
+
 ## 🛠️ Tech Stack
 This project is built using a modern data science tech stack, following a modular and reproducible approach.
 
@@ -205,6 +225,19 @@ The config.yaml file allows you to easily adjust project parameters without chan
 
 <p align="right">
   <a href="#-Configuration">
+    (back to top)
+  </a>
+</p>
+
+---
+
+👨‍💻 Author
+Tanuja Vishwakarma
+🐙 ![GitHub](https://github.com/Tanuja7897)
+💼 ![LinkedIn](https://www.linkedin.com/in/tanuja-vishwakarma-463579253/)
+
+<p align="right">
+  <a href="#-Customer-Churn-Prediction">
     (back to top)
   </a>
 </p>
