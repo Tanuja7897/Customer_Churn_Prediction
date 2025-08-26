@@ -20,7 +20,7 @@ By automating churn prediction, this project provides organizations with actiona
  
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
-- [Tech Stack](#-Tech-Stack)  
+- [Tech Stack](#-Tach-Stack)  
 - [Project Structure](#-Repository-Structure)  
 - [Dataset](#-dataset)  
 - [Installation](#️-installation)  
@@ -90,3 +90,6 @@ Churn_Prediction/
 ├── run_pipeline.py              # Entry point
 ├── requirements.txt             # Dependencies
 └── README.md                    # Documentation
+
+```
+---
