@@ -107,13 +107,17 @@ Source: [Kaggle 🔗](https://www.kaggle.com/datasets/blastchar/telco-customer-c
 Dimensions: 7,043 rows and 21 features
 
 👁️ Preview 
-
+<div align="center">
+ <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Dataset.png" height="200" width="450">
+</div>
 
 <p align="right">
   <a href="#-Repository-Structure">
     (back to top)
   </a>
 </p>
+
+
 ---
 
 ## ⚙ Installation
@@ -121,13 +125,16 @@ Dimensions: 7,043 rows and 21 features
 git clone https://github.com/Tanuja7897/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
-
 ```
 <p align="right">
   <a href="#-DataSet">
     (back to top)
   </a>
 </p>
+
+
 ---
+
+
 ## ⚡ Usage
 
