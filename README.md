@@ -59,7 +59,7 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 
 ## 📈 Project Workflow
 
-This flowchart illustrates the end-to-end process of the churn prediction pipeline, from raw data ingestion to model deployment.
+This flowchart illustrates the end-to-end process of the churn prediction pipeline, from raw data ingestion to result Prediction.
 
 <div>
   <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Pipeline.png" alt="Project Pipeline Flowchart" height="600" width="450">
