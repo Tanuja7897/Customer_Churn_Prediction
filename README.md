@@ -101,10 +101,11 @@ Churn_Prediction/
 
 ## 🛢️ DataSet
 
--The project uses the Telco Customer Churn Dataset from Kaggle, which provides comprehensive information on a telecom company's customers.
--DataSet: Telco Customer Churn (IBM)
--Source: [Kaggle 🔗](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
--Dimensions: 7,043 rows and 21 features
+The project uses the Telco Customer Churn Dataset from Kaggle, which provides comprehensive information on a telecom company's customers.
+
+* **Dataset:** Telco Customer Churn (IBM)
+* **Source:** [🔗 Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **Dimensions:** 7,043 rows and 21 features
 
 👁️ Preview 
 <div>
