@@ -48,10 +48,11 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 • Reduce churn rates and ensure long-term business growth.
 
 <p align="right">
-  <a id="project-overview"></a>
+  <a href="#-Project-Objective">
     (back to top)
   </a>
-</p>                                                                                                                           
+</p>
+                                                                                                                          
 
                                                                                                                          
 ---
