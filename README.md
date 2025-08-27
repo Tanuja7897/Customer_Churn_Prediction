@@ -22,13 +22,13 @@ By automating churn prediction, this project provides organizations with actiona
 - [Project Objective](#project-objective)
 - [Project Workflow](#project-workflow)
 - [Tech Stack](#tech-stack)  
-- [Project Structure](#project-structure)  
+- [Repository Structure](#project-structure)  
 - [Dataset](#dataset)  
 - [Installation](#installation)  
 - [Usage](#usage)  
   - [Train Model](#train-model)  
   - [Predict on New Data](#predict-new-data)  
-- [Example Output](#sample-output)  
+- [Sample Output](#sample-output)  
 - [Configuration](#configuration)
 - [Future Improvements](#future-improvements)  
 - [Author](#author)
@@ -68,7 +68,7 @@ This flowchart illustrates the end-to-end process of the churn prediction pipeli
 </div>
 
 <p align="right">
-  <a href="#-Project-Objective">
+  <a href="#project-objective">
     (back to top)
   </a>
 </p>
@@ -88,7 +88,7 @@ This project is built using a modern data science tech stack, following a modula
 - ![Pipeline](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ensures that the workflow is easily configurable and scalable
 
 <p align="right">
-  <a href="#-Project-Objective">
+  <a href="#project-workflow">
     (back to top)
   </a>
 </p>                                                                                                                         
@@ -119,7 +119,7 @@ Churn_Prediction/
 └── README.md                    # Documentation
 ```
 <p align="right">
-  <a href="#-Tech-Stack">
+  <a href="#tech-stack">
     (back to top)
   </a>
 </p> 
@@ -139,7 +139,7 @@ The project uses the Telco Customer Churn Dataset from Kaggle, which provides co
  <img src="https://github.com/Tanuja7897/Customer_Churn_Prediction/blob/main/assets/Dataset.png" height="600" width="750">
 </div>
 <p align="right">
-  <a href="#-Repository-Structure">
+  <a href="#project-structure">
     (back to top)
   </a>
 </p>
@@ -154,7 +154,7 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 ```
 <p align="right">
-  <a href="#-DataSet">
+  <a href="#dataset">
     (back to top)
   </a>
 </p>
@@ -186,7 +186,7 @@ new_customer = pd.DataFrame([{
 print(predict_new_data(new_customer))
 ```
 <p align="right">
-  <a href="#-Installation">
+  <a href="#installation">
     (back to top)
   </a>
 </p>
@@ -204,7 +204,7 @@ After running the pipeline, you will see the Classification Report and a Confusi
 
 
 <p align="right">
-  <a href="#-Usage">
+  <a href="#usage">
     (back to top)
   </a>
 </p>
@@ -218,7 +218,7 @@ The config.yaml file allows you to easily adjust project parameters without chan
 </div>
 
 <p align="right">
-  <a href="#-Sample-Output">
+  <a href="#sample-output">
     (back to top)
   </a>
 </p>
@@ -231,7 +231,7 @@ The config.yaml file allows you to easily adjust project parameters without chan
 * **CI/CD Pipeline:** Set up GitHub Actions for a continuous integration and continuous deployment pipeline to automate testing and deployment workflows.
 
 <p align="right">
-  <a href="#-Configuration">
+  <a href="#configuration">
     (back to top)
   </a>
 </p>
@@ -244,7 +244,7 @@ The config.yaml file allows you to easily adjust project parameters without chan
 * [LinkedIn](https://www.linkedin.com/in/tanuja-vishwakarma-463579253/)
 
 <p align="right">
-  <a href="#-Customer-Churn-Prediction">
+  <a href="#project-overview">
     (back to top)
   </a>
 </p>
