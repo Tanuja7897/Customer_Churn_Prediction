@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Customer Churn Prediction
+## 📊 Customer Churn Prediction <a id="project-overview"></a>
 This project focuses on predicting customer churn — determining whether a customer is likely to stay with the company or leave. Churn prediction is a critical business challenge, as retaining customers is often more cost-effective than acquiring new ones.
 
 This solution is built using Python, Scikit-learn, and Pandas, and follows an industry-standard machine learning project structure. 
@@ -18,25 +18,26 @@ By automating churn prediction, this project provides organizations with actiona
 
 ## 📚 Contents
  
-- [Project Overview](#-Customer-Churn-Prediction)
-- [Project Objective](#-Project-Objective)
-- [Project Workflow](#-Project-Workflow)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#-Repository-Structure)  
-- [Dataset](#-DataSet)  
-- [Installation](#️-Installation)  
-- [Usage](#-Usage)  
-  - [Train Model](#-Train-Model)  
-  - [Predict on New Data](#Predict-New-Data)  
-- [Example Output](#-Sample-output)  
-- [Configuration](#-Configuration)
-- [Future Improvements](#-Future-Improvements)  
-- [Author](#-author)  
+- [Project Overview](#project-overview)
+- [Project Objective](#project-objective)
+- [Project Workflow](#project-workflow)
+- [Tech Stack](#tech-stack)  
+- [Project Structure](#project-structure)  
+- [Dataset](#dataset)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+  - [Train Model](#train-model)  
+  - [Predict on New Data](#predict-new-data)  
+- [Example Output](#sample-output)  
+- [Configuration](#configuration)
+- [Future Improvements](#future-improvements)  
+- [Author](#author)
+
 
 ---
 
 
-## 🎯 Project Objective
+## 🎯 Project Objective <a id="project-objective"></a>
 
 This project's objective is to build a robust, **end-to-end machine learning solution** for customer churn prediction. By leveraging comprehensive data analysis and a structured workflow, the goal is to provide a predictive tool that enables businesses to:
 
@@ -47,7 +48,7 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 • Reduce churn rates and ensure long-term business growth.
 
 <p align="right">
-  <a href="#-Customer-Churn-Prediction">
+  <a id="project-overview"></a>
     (back to top)
   </a>
 </p>                                                                                                                           
@@ -57,7 +58,7 @@ This project's objective is to build a robust, **end-to-end machine learning sol
 
 
 
-## 📈 Project Workflow
+## 📈 Project Workflow <a id="project-workflow"></a>
 
 This flowchart illustrates the end-to-end process of the churn prediction pipeline, from raw data ingestion to result Prediction.
 
@@ -92,7 +93,7 @@ This project is built using a modern data science tech stack, following a modula
 </p>                                                                                                                         
 
 ---                                                                                                                          
-## 📁 Repository Structure
+## 📁 Repository Structure <a id="project-structure"></a>
 
 ```
 Churn_Prediction/
@@ -124,7 +125,7 @@ Churn_Prediction/
 
 ---
 
-## 🛢️ DataSet
+## 🛢️ DataSet <a id="dataset"></a>
 
 The project uses the Telco Customer Churn Dataset from Kaggle, which provides comprehensive information on a telecom company's customers.
 
@@ -145,7 +146,7 @@ The project uses the Telco Customer Churn Dataset from Kaggle, which provides co
 
 ---
 
-## ⚙ Installation
+## ⚙ Installation <a id="installation"></a>
 ```
 git clone https://github.com/Tanuja7897/customer-churn-prediction.git
 cd customer-churn-prediction
@@ -159,14 +160,14 @@ pip install -r requirements.txt
 
 ---
 
-## ⚡ Usage
+## ⚡ Usage <a id="usage"></a>
 
-🔹 Train Model
+🔹 Train Model <a id="train-model"></a>
 
 ```
 python run_pipeline.py
 ```
-🔹 Predict New Data
+🔹 Predict New Data <a id="predict-new-data"></a>
 ```
 from src.predict import predict_new_data
 import pandas as pd
@@ -192,7 +193,7 @@ print(predict_new_data(new_customer))
 ---
 
 
-## 💻 Sample Output
+## 💻 Sample Output <a id="sample-output"></a>
 
 After running the pipeline, you will see the Classification Report and a Confusion Matrix of the model's predictions.
 
@@ -208,7 +209,7 @@ After running the pipeline, you will see the Classification Report and a Confusi
 </p>
 
 ---
-## ⚙️ Configuration
+## ⚙️ Configuration <a id="configuration"></a>
 The config.yaml file allows you to easily adjust project parameters without changing the code. You can FineTune parameters and Model for better Performance. 
 
 <div>
@@ -222,7 +223,7 @@ The config.yaml file allows you to easily adjust project parameters without chan
 </p>
 
 ---
-🔮 Future Improvements
+🔮 Future Improvements <a id="future-improvements"></a>
 
 * **Hyperparameter Tuning:** Implement automated hyperparameter optimization using tools like Optuna or GridSearch to further improve model performance.
 * **Version Control:** Integrate MLflow or DVC to manage and track different versions of the model and data, ensuring reproducibility.
@@ -236,7 +237,7 @@ The config.yaml file allows you to easily adjust project parameters without chan
 
 ---
 
-👨‍💻 Author
+👨‍💻 Author <a id="author"></a>
 * Tanuja Vishwakarma
 * [GitHub](https://github.com/Tanuja7897)
 * [LinkedIn](https://www.linkedin.com/in/tanuja-vishwakarma-463579253/)
