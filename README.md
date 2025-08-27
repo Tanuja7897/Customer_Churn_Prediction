@@ -21,7 +21,7 @@ By automating churn prediction, this project provides organizations with actiona
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
 - [Project Workflow](#-Project-Workflow)
-- [Tech Stack](#-Tach-Stack)  
+- [Tech Stack](#-Tech-Stack)  
 - [Project Structure](#-Repository-Structure)  
 - [Dataset](#-DataSet)  
 - [Installation](#️-Installation)  
