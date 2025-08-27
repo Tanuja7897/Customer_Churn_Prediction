@@ -116,7 +116,7 @@ Churn_Prediction/
 └── README.md                    # Documentation
 ```
 <p align="right">
-  <a href="#-Tach-Stack">
+  <a href="#-Tech-Stack">
     (back to top)
   </a>
 </p> 
