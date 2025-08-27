@@ -21,7 +21,7 @@ By automating churn prediction, this project provides organizations with actiona
 - [Project Overview](#-Customer-Churn-Prediction)
 - [Project Objective](#-Project-Objective)
 - [Project Workflow](#-Project-Workflow)
-- [Tech Stack](#-tech-stack)  
+- [Tech Stack](#-Tech-Stack)  
 - [Project Structure](#-Repository-Structure)  
 - [Dataset](#-DataSet)  
 - [Installation](#️-Installation)  
@@ -75,7 +75,7 @@ This flowchart illustrates the end-to-end process of the churn prediction pipeli
 ---
 
 
-## 🛠️ Tech Stack {#tech-stack}
+## 🛠️ Tech Stack
 
 This project is built using a modern data science tech stack, following a modular and reproducible approach.
 
